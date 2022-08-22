@@ -1,2 +1,2 @@
 # NIX-Education
-# gerkonum.github.io/nix-education/
+gerkonum.github.io/nix-education/
