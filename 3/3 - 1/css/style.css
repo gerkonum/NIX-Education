@@ -1,0 +1,24 @@
+body{
+    background-image: url(../img/bg-image.jpg);
+    background-size: cover;
+}
+p{
+    font-weight: bold;
+    line-height: 2;
+    font-size: 14px;
+}
+.hexadecimal{
+    color: #00CFD9;
+}
+.color-name{
+    color: blueviolet;
+}
+.rgb{
+    color: rgb(254, 50, 50);
+}
+.hsl{
+    color: hsl(124, 100%, 41%);
+}
+.rgba{
+    color: rgba(255, 251, 0, 0.9);
+}
