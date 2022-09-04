@@ -1,0 +1,21 @@
+.flex-container{
+    width: 400px;
+    display: flex;
+}
+.item1, .item3{
+    flex: 0 0 25%;
+}
+.flex-container2{
+    width: 500px;
+    display: flex;
+}
+.item1_2, .item2_2, .item3_2, .item4_2{
+    flex: 0 1 25%;
+}
+.flex-container3{
+    width: 600px;
+    display: flex;
+}
+.item3_3, .item4_3{
+    flex: 1 0 auto;
+}
