@@ -1,0 +1,19 @@
+.wrapper{
+    background-color: red;
+}
+.first{
+    width: 30%;
+    float: left;
+}
+.second{
+    width: 30%;
+    float: right;
+}
+.third{
+    margin-right: 30%;
+    margin-left: 30%;
+    background-color: white;
+}
+
+
+

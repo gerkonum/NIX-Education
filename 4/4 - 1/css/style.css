@@ -1,0 +1,10 @@
+div{
+    border: 2px solid #000;
+    width: 7%;
+}
+.second, .fourth, .sixth{
+    float: left;
+}
+.first, .third, .fifth{
+    float: right;
+}

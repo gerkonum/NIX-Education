@@ -1,0 +1,31 @@
+* {
+    color: white;
+}
+.red{
+    width: 30%;
+    float: left;
+}
+.wrapper{
+    margin-left: 30%;
+}
+.blue{
+    float: right;
+    width: 20%;
+}
+.wrapper2{
+    margin-right: 20%;
+}
+.pink{
+    float: right;
+    width: 20%;
+}
+.lightblue{
+    float: left;
+    width: 20%;
+}
+.yellow{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+

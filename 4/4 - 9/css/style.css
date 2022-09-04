@@ -1,0 +1,13 @@
+* {
+    list-style-type: none;
+}
+.second{
+    display: none;
+}
+.hovered:hover .second{
+    display: block;
+    background-color: red;
+    width: 30px;
+}
+
+
