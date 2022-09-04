@@ -1,0 +1,28 @@
+.container{
+	border: 2px solid #000;
+	width: 630px;
+	height: 100px;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column-reverse;
+}
+.block{
+	width: 300px;
+	border: 2px solid #000;
+	margin: 5px;
+}
+.item1{
+	order: 2;
+}
+.item2{
+	order: 4;
+}
+.item3{
+	order: 1;
+}
+.item4{
+	order: 5;
+}
+.item5{
+	order: 3;
+}
