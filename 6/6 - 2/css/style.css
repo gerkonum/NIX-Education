@@ -1,0 +1,18 @@
+.card{
+    margin-left: 5%;
+}
+.changed{
+    padding: 12px 32px;
+}
+h6{
+    color: #3F52B5;
+}
+.image-row{
+    display: flex;
+    justify-content: space-around;
+    margin: 0px 50px;
+}
+.image-item{
+    border-radius: 50%;
+    box-shadow: 0 0 10px 0;
+}
