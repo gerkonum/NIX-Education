@@ -85,21 +85,10 @@ header a{
   padding: 25px;
   background-color: #FFE4C3;
 }
-/* catalog */
 .tees img{
   position: relative;
   max-width: 100%;
 }
-/* .products{
-  height: 100px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.products_main{
-  font-size: 22px;
-  border-bottom: 2px solid black;
-} */
 .products_row{
   display: flex;
   flex-wrap: wrap;
@@ -109,7 +98,6 @@ header a{
 .products_column{
   flex: 0 1 30%;
   padding: 0px 5px;
-  /* margin-bottom: 30px; */
 }
 .products_column img{
   width: 100%;
@@ -124,7 +112,6 @@ header a{
 }
 .products_column a, p{
   font-size: 15px;
-  /* line-height: 30px; */
   color: #1A1A1A;
 }
 .products_column a > p:hover{
@@ -135,7 +122,6 @@ header a{
   box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(0, 0, 0, 0.075);
 }
 footer{
-  /* height: 200px; */
   background-color: #FAFAF2;
 }
 footer a{
@@ -192,7 +178,6 @@ footer a:hover{
   .products_column{
     flex: 0 1 45%;
     padding: 0px 5px;
-    /* margin-bottom: 30px; */
   }
   .products_column img{
     width: 100%;
@@ -207,7 +192,6 @@ footer a:hover{
   }
   .products_column a, p{
     font-size: 15px;
-    /* line-height: 30px; */
     color: #1A1A1A;
   }
   .products_column a > p:hover{
@@ -221,7 +205,6 @@ footer a:hover{
   .products_column{
     flex: 0 1 45%;
     padding: 0px 5px;
-    /* margin-bottom: 30px; */
   }
   .footer_row{
     display: flex;
@@ -255,7 +238,6 @@ footer a:hover{
   .products_column{
     flex: 0 1 45%;
     padding: 0px 5px;
-    /* margin-bottom: 30px; */
   }
   .navbar-brand img{
     width: 128px;
